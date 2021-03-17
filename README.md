@@ -1,3 +1,9 @@
+# Team
+Artur Nowicki  
+Kacper Włodarczyk  
+Dawid Morka  
+Kamil Dębowski  
+
 # Clean Code 2021
 
 **Zadanie 1:** Clean Code
